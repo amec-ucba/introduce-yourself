@@ -78,16 +78,17 @@ Like a link, with a `!` in front. The text in the square brackets is the **alt t
 short description of the image for people who can't see it.
 
 ```markdown
-![Dave smiling in front of the Blue Ash campus](images/me.jpg)
+![Dave smiling in a green plaid shirt](me.jpeg)
 ```
 
-The path is relative to this file, so `images/me.jpg` means the `me.jpg` file in the
-`images` folder. Paths are case-sensitive: `Me.JPG` and `me.jpg` are different files.
+The path is relative to this file, so `me.jpeg` means the `me.jpeg` file in the same
+folder as `README.md`. Paths are case-sensitive: `Me.JPEG` and `me.jpeg` are different
+files.
 
 To set the size, use an HTML `<img>` tag instead:
 
 ```html
-<img src="images/me.jpg" alt="Dave smiling in front of the Blue Ash campus" width="300">
+<img src="me.jpeg" alt="Dave smiling in a green plaid shirt" width="300">
 ```
 
 ## Quotes
