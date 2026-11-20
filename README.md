@@ -10,8 +10,8 @@
   This is an HTML comment, so it won't show on your profile. Write your introduction
   below it, or delete it once you're done.
 
-  The assignment requirements and screenshots to take are on the assignment page in
-  Canvas.
+  The assignment requirements are in .github/ASSIGNMENT.md. When you're done, submit
+  your profile link (https://github.com/<your-username>) in Canvas.
 
   Markdown help:
   - Cheat sheet (in this repo): CHEATSHEET.md

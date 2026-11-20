@@ -25,7 +25,7 @@ to it, so by the end it works as a small portfolio you can keep building in late
       image has alt text that describes it.
 - [ ] Your changes are committed and pushed to `main`
 - [ ] Your introduction shows at the top of your profile at `https://github.com/<your-username>`
-- [ ] You took the screenshots listed on the assignment page in Canvas, and submitted them there
+- [ ] You submitted your profile link, `https://github.com/<your-username>`, in Canvas
 
 ## 🛠️ Steps
 
@@ -44,6 +44,9 @@ to it, so by the end it works as a small portfolio you can keep building in late
    [Publishing guide](PUBLISHING.md) has screenshots of both. Ignore its GitHub Pages steps.
 5. **Check your profile** at `https://github.com/<your-username>`. Your introduction should
    be at the top.
+6. **Submit your profile link in Canvas.** Open the assignment, click **Start Assignment**,
+   paste `https://github.com/<your-username>` on the **Website URL** tab, and click
+   **Submit Assignment**. Submit your profile link, not the link to the repo.
 
 ## 📂 Starter Files
 
@@ -66,7 +69,7 @@ with a relative path, like `![A short description of the photo](me.jpg)`.
 | **Repo setup** | Created from this template, owned by your account, named exactly your GitHub username, and Public. | 1 |
 | **Introduction** | `README.md` introduces you in your own words: who you are, and what you hope to get out of this course. | 2 |
 | **Markdown** | Uses at least one heading, one list, and one link, all rendering correctly on your profile. Any image loads and has descriptive alt text. | 1 |
-| **Published and submitted** | Your changes are pushed to `main`, the introduction shows on your profile, and the screenshots are submitted in Canvas. | 1 |
+| **Published and submitted** | Your changes are pushed to `main`, the introduction shows on your profile, and your profile link is submitted in Canvas. | 1 |
 | **Total** |  | **5** |
 
 ## 📚 Resources
