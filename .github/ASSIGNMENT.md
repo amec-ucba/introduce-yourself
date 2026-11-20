@@ -27,7 +27,7 @@ to it, so by the end it works as a small portfolio you can keep building in late
 - [ ] Your introduction shows at the top of your profile at `https://github.com/<your-username>`
 - [ ] You submitted your profile link, `https://github.com/<your-username>`, in Canvas
 
-## 🛠️ Steps
+### 🛠️ Steps
 
 1. **Create your repo from this template.** Click **Use this template** → **Create a new
    repository**. Set **Owner** to your GitHub account, name it **exactly** your GitHub
@@ -80,7 +80,13 @@ with a relative path, like `![A short description of the photo](me.jpg)`.
 - [Markdown Guide: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Markdown in WebStorm](https://www.jetbrains.com/help/webstorm/markdown.html) (JetBrains)
 
-## 🤖 AI Policy
+## 🆘 Getting Help
+
+Ask during class or office hours, or post on the Canvas discussion board.
+
+---
+
+### 🤖 AI Policy
 
 Work on this assignment must be your own. Do not use AI tools — including GitHub Copilot,
 Cursor, ChatGPT, Claude, or JetBrains AI Assistant — to write your introduction.
