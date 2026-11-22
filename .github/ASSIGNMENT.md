@@ -66,11 +66,11 @@ with a relative path, like `![A short description of the photo](me.jpg)`.
 
 | Criteria | What earns full credit | Points |
 | --- | --- | --- |
-| **Repo setup** | Created from this template, owned by your account, named exactly your GitHub username, and Public. | 1 |
-| **Introduction** | `README.md` introduces you in your own words: who you are, and what you hope to get out of this course. | 2 |
-| **Markdown** | Uses at least one heading, one list, and one link, all rendering correctly on your profile. Any image loads and has descriptive alt text. | 1 |
-| **Published and submitted** | Your changes are pushed to `main`, the introduction shows on your profile, and your profile link is submitted in Canvas. | 1 |
-| **Total** |  | **5** |
+| **Repo setup** | Created from this template, owned by your account, named exactly your GitHub username, and Public. | 2 |
+| **Introduction** | `README.md` introduces you in your own words: who you are, and what you hope to get out of this course. | 4 |
+| **Markdown** | Uses at least one heading, one list, and one link, all rendering correctly on your profile. Any image loads and has descriptive alt text. | 2 |
+| **Published and submitted** | Your changes are pushed to `main`, the introduction shows on your profile, and your profile link is submitted in Canvas. | 2 |
+| **Total** |  | **10** |
 
 ## 📚 Resources
 
